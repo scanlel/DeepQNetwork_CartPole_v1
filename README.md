@@ -29,6 +29,10 @@ You can check out the Jupyter notebook containing the code and run it yourself. 
 
 Here's a glimpse of how the trained agent plays the game:
 
-![Demo Video](#https://drive.google.com/file/d/1H5Pr2FOHChS3D_2Tif8dKWRR7yZWwWDC/view?usp=sharing) 
+
+https://github.com/scanlel/DeepQNetwork_CartPole_v1/assets/128835500/78f6e7f4-2e66-472c-84c3-1c0e43e56685
+
+
+
 
 Feel free to explore the code, experiment with different hyperparameters, or adapt the DQN agent for other reinforcement learning tasks. Happy coding and have fun with CartPole! 😄🕹️
